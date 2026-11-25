@@ -1,0 +1,5 @@
+.idea/
+.env
+__pycache__/
+*.py[cod]
+paraphrase-multilingual-MiniLM-L12-v2/
